@@ -1,5 +1,3 @@
-SERVER_PORT=19080
-SPRING_APPLICATION_NAME=helloworld
 management:
   endpoints:
     web:
